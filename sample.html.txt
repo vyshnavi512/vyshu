@@ -3,7 +3,7 @@
 <body>
 
 <h1>DEVOPS</h1>
-<h1> - script: python -mhtmllib sample.html 
+<h1> - script: python -mhtmllib sample.html </h1>
 <h1>Continuous Integration</h1>
 
 </body>
